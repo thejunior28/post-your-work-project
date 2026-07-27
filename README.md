@@ -17,3 +17,13 @@ This project analyzes bikeshare data from multiple cities.
 
 ## How to Run
 
+\## Usage
+
+
+
+Run the project with:
+
+
+
+python bikeshare\_starter.py
+
