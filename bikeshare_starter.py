@@ -19,7 +19,7 @@ def get_filters():
 
     # Ask the user to choose a city and validate the input
 
-    
+
 
     # get user input for month (all, january, february, ... , june)
 
@@ -44,6 +44,7 @@ def load_data(city, month, day):
     """
 
 
+    # Return filtered dataframe
     return df
 
 
