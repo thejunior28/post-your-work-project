@@ -1,16 +1,19 @@
-# Bikeshare Project
+\## Description
 
-This project explores bikeshare data from different cities.
+
+
+This project analyzes bikeshare data from multiple cities.
 
 ## Features
 
-- Filter data by city
-- Filter data by month
-- Filter data by day
+* Filter data by city
+* Filter data by month
+* Filter data by day
 
 ## Files
 
-- bikeshare_starter.py
-- README.md
+* bikeshare\_starter.py
+* README.md
 
 ## How to Run
+
