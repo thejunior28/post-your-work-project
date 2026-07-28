@@ -1,4 +1,4 @@
-\## Description
+## Description
 
 
 
@@ -12,12 +12,12 @@ This project analyzes bikeshare data from multiple cities.
 
 ## Files
 
-* bikeshare\_starter.py
+* bikeshare.py
 * README.md
 
 ## How to Run
 
-\## Usage
+## Usage
 
 
 
@@ -25,5 +25,5 @@ Run the project with:
 
 
 
-python bikeshare\_starter.py
+python bikeshare.py
 
